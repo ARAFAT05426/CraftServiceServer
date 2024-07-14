@@ -1,6 +1,5 @@
 # KraftFix
 # live-server:- https://assignment-11-plum.vercel.app/
-# Variant- 0002
 # Features
 1. Secure environment-variables
 2. Functional Server
